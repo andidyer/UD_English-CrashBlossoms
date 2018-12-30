@@ -1,0 +1,267 @@
+# cb001
+# Violinist linked to JAL crash blossoms
+1	Violinist	violinist	PROPN	_	_	6	nsubj	_	_
+2	linked	link	VERB	_	_	1	acl	_	_
+3	to	to	ADP	_	_	5	case	_	_
+4	JAL	jal	PROPN	_	_	5	nmod	_	_
+5	crash	crash	NOUN	_	_	2	obl	_	_
+6	blossoms	blossom	NOUN	_	_	0	root	_	_
+
+
+# cb002
+# Trump demands dog 'Dreamers' deal
+1	Trump	trump	PROPN	_	_	2	nmod	_	_
+2	demands	demand	VERB	_	_	3	nsubj	_	_
+3	dog	dog	NOUN	_	_	0	root	_	_
+4	'	'	PUNCT	_	_	5	punct	_	_
+5	Dreamers	dreamers	PROPN	_	_	7	nmod	_	_
+6	'	'	PUNCT	_	_	5	punct	_	_
+7	deal	deal	NOUN	_	_	3	obj	_	_
+
+
+# cb003
+# Republicans look to safety net programs as deficit balloons
+1	Republicans	republican	NOUN	_	_	2	nsubj	_	_
+2	look	look	VERB	_	_	0	root	_	_
+3	to	to	ADP	_	_	_	_	_	_
+4	safety	safety	NOUN	_	_	_	_	_	_
+5	net	net	ADJ	_	_	_	_	_	_
+6	programs	program	NOUN	_	_	_	_	_	_
+7	as	as	ADP	_	_	_	_	_	_
+8	deficit	deficit	NOUN	_	_	_	_	_	_
+9	balloons	balloon	VERB	_	_	_	_	_	_
+
+
+# sb004
+# Fake degree claims dog prominent Spanish politicians
+1	Fake	fake	ADJ	_	_	2	amod	_	_
+2	degree	degree	NOUN	_	_	3	nmod	_	_
+3	claims	claim	NOUN	_	_	4	nsubj	_	_
+4	dog	dog	VERB	_	_	0	root	_	_
+5	prominent	prominent	ADJ	_	_	7	amod	_	_
+6	Spanish	spanish	ADJ	_	_	7	amod	_	_
+7	politicians	politician	NOUN	_	_	4	obj	_	_
+
+
+# cb005
+# Council questions warrant arrests
+1	Council	council	NOUN	_	_	2	nsubj	_	_
+2	questions	question	VERB	_	_	0	root	_	_
+3	warrant	warrant	NOUN	_	_	4	nmod	_	_
+4	arrests	arrest	NOUN	_	_	2	obj	_	_
+
+
+# cb006
+# Mutilated body washes up on Rio beach to be used for Olympics beach volleyball
+1	Mutilated	mutilated	ADJ	_	_	2	amod	_	_
+2	body	body	NOUN	_	_	3	nsubj	_	_
+3	washes	wash	VERB	_	_	0	root	_	_
+4	up	up	PART	_	_	_	_	_	_
+5	on	on	ADP	_	_	_	_	_	_
+6	Rio	rio	PROPN	_	_	_	_	_	_
+7	beach	beach	NOUN	_	_	_	_	_	_
+8	to	to	PART	_	_	_	_	_	_
+9	be	be	AUX	_	_	_	_	_	_
+10	used	use	VERB	_	_	_	_	_	_
+11	for	for	ADP	_	_	_	_	_	_
+12	Olympics	olympics	PROPN	_	_	_	_	_	_
+13	beach	beach	NOUN	_	_	14	compound	_	_
+14	volleyball	volleyball	NOUN	_	_	_	_	_	_
+
+
+# cb007
+# Second Ave. change orders pressure December completion
+1	Second	second	PROPN	_	_	_	_	_	_
+2	Ave	ave	PROPN	_	_	_	_	_	_
+3	.	.	PUNCT	_	_	_	_	_	_
+4	change	change	NOUN	_	_	_	_	_	_
+5	orders	order	NOUN	_	_	_	_	_	_
+6	pressure	pressure	NOUN	_	_	0	root	_	_
+7	December	december	PROPN	_	_	_	_	_	_
+8	completion	completion	NOUN	_	_	_	_	_	_
+
+
+# cb008
+# Susan Collins unveils a gun-control compromise: It would restrict sales to individuals on two terrorist watch lists
+1	Susan	susan	PROPN	_	_	_	_	_	_
+2	Collins	collins	PROPN	_	_	_	_	_	_
+3	unveils	unveil	VERB	_	_	_	_	_	_
+4	a	a	DET	_	_	_	_	_	_
+5	gun	gun	NOUN	_	_	_	_	_	_
+6	-	-	PUNCT	_	_	_	_	_	_
+7	control	control	NOUN	_	_	_	_	_	_
+8	compromise	compromise	NOUN	_	_	_	_	_	_
+9	:	:	PUNCT	_	_	_	_	_	_
+10	It	-PRON-	PRON	_	_	_	_	_	_
+11	would	would	VERB	_	_	_	_	_	_
+12	restrict	restrict	VERB	_	_	_	_	_	_
+13	sales	sale	NOUN	_	_	_	_	_	_
+14	to	to	ADP	_	_	_	_	_	_
+15	individuals	individual	NOUN	_	_	_	_	_	_
+16	on	on	ADP	_	_	_	_	_	_
+17	two	two	NUM	_	_	_	_	_	_
+18	terrorist	terrorist	ADJ	_	_	_	_	_	_
+19	watch	watch	NOUN	_	_	_	_	_	_
+20	lists	list	NOUN	_	_	_	_	_	_
+
+
+# cb009
+# Biden, Trump, fed agents to attend Penn graduation
+1	Biden	biden	PROPN	_	_	_	_	_	_
+2	,	,	PUNCT	_	_	_	_	_	_
+3	Trump	trump	PROPN	_	_	_	_	_	_
+4	,	,	PUNCT	_	_	_	_	_	_
+5	fed	fed	PROPN	_	_	_	_	_	_
+6	agents	agent	NOUN	_	_	_	_	_	_
+7	to	to	PART	_	_	_	_	_	_
+8	attend	attend	VERB	_	_	0	root	_	_
+9	Penn	penn	PROPN	_	_	10	nmod	_	_
+10	graduation	graduation	NOUN	_	_	8	obj	_	_
+
+
+# sn 010
+# Indiana poll bears good news for Trump
+1	Indiana	indiana	PROPN	_	_	_	_	_	_
+2	poll	poll	NOUN	_	_	_	_	_	_
+3	bears	bear	VERB	_	_	0	root	_	_
+4	good	good	ADJ	_	_	_	_	_	_
+5	news	news	NOUN	_	_	_	_	_	_
+6	for	for	ADP	_	_	_	_	_	_
+7	Trump	trump	PROPN	_	_	_	_	_	_
+
+
+# sn 011
+# Stephen Hawking reflects on the Earth's chance of sustaining life at the Sydney Opera House earlier last year
+1	Stephen	stephen	PROPN	_	_	_	_	_	_
+2	Hawking	hawking	PROPN	_	_	3	nsubj	_	_
+3	reflects	reflect	VERB	_	_	0	root	_	_
+4	on	on	ADP	_	_	_	_	_	_
+5	the	the	DET	_	_	_	_	_	_
+6	Earth	earth	PROPN	_	_	_	_	_	_
+7	's	's	PART	_	_	_	_	_	_
+8	chance	chance	NOUN	_	_	_	_	_	_
+9	of	of	ADP	_	_	_	_	_	_
+10	sustaining	sustain	VERB	_	_	_	_	_	_
+11	life	life	NOUN	_	_	_	_	_	_
+12	at	at	ADP	_	_	_	_	_	_
+13	the	the	DET	_	_	_	_	_	_
+14	Sydney	sydney	PROPN	_	_	_	_	_	_
+15	Opera	opera	PROPN	_	_	_	_	_	_
+16	House	house	PROPN	_	_	_	_	_	_
+17	earlier	earlier	ADV	_	_	_	_	_	_
+18	last	last	ADJ	_	_	_	_	_	_
+19	year	year	NOUN	_	_	_	_	_	_
+
+
+# sn 012
+# Finance minister hikes down payment rules for mortgages on homes over $500K
+1	Finance	finance	NOUN	_	_	_	_	_	_
+2	minister	minister	NOUN	_	_	_	_	_	_
+3	hikes	hike	VERB	_	_	_	_	_	_
+4	down	down	ADP	_	_	_	_	_	_
+5	payment	payment	NOUN	_	_	_	_	_	_
+6	rules	rule	NOUN	_	_	_	_	_	_
+7	for	for	ADP	_	_	_	_	_	_
+8	mortgages	mortgage	NOUN	_	_	_	_	_	_
+9	on	on	ADP	_	_	_	_	_	_
+10	homes	home	NOUN	_	_	_	_	_	_
+11	over	over	ADP	_	_	_	_	_	_
+12	$	$	SYM	_	_	_	_	_	_
+13	500	500	NUM	_	_	_	_	_	_
+14	K	k	NOUN	_	_	_	_	_	_
+
+
+# cb013
+# China Nov inflation edges up, but deflation risks dog economy
+1	China	china	PROPN	_	_	_	_	_	_
+2	Nov	nov	PROPN	_	_	_	_	_	_
+3	inflation	inflation	NOUN	_	_	_	_	_	_
+4	edges	edge	VERB	_	_	_	_	_	_
+5	up	up	PART	_	_	_	_	_	_
+6	,	,	PUNCT	_	_	_	_	_	_
+7	but	but	CCONJ	_	_	_	_	_	_
+8	deflation	deflation	NOUN	_	_	_	_	_	_
+9	risks	risk	NOUN	_	_	_	_	_	_
+10	dog	dog	VERB	_	_	_	_	_	_
+11	economy	economy	NOUN	_	_	10	obj	_	_
+
+
+# cb914
+# Paris attacks cloud conversation at summit of World Powers
+1	Paris	paris	NOUN	_	_	_	_	_	_
+2	attacks	attack	NOUN	_	_	_	_	_	_
+3	cloud	cloud	VERB	_	_	0	root	_	_
+4	conversation	conversation	NOUN	_	_	_	_	_	_
+5	at	at	ADP	_	_	_	_	_	_
+6	summit	summit	NOUN	_	_	_	_	_	_
+7	of	of	ADP	_	_	_	_	_	_
+8	World	world	PROPN	_	_	_	_	_	_
+9	Powers	powers	PROPN	_	_	_	_	_	_
+
+
+# cb015
+# New York Jets ship toilet rolls to UK
+1	New	new	PROPN	_	_	_	_	_	_
+2	York	york	PROPN	_	_	_	_	_	_
+3	Jets	jets	PROPN	_	_	_	_	_	_
+4	ship	ship	VERB	_	_	0	root	_	_
+5	toilet	toilet	NOUN	_	_	_	_	_	_
+6	rolls	roll	NOUN	_	_	_	_	_	_
+7	to	to	ADP	_	_	_	_	_	_
+8	UK	uk	PROPN	_	_	_	_	_	_
+
+
+# cb016
+# Woman burned as a baby tracks down nurse who cared for her
+1	Woman	woman	NOUN	_	_	6	nsubj	_	_
+2	burned	burn	VERB	_	_	1	acl	_	_
+3	as	as	ADP	_	_	5	case	_	_
+4	a	a	DET	_	_	5	det	_	_
+5	baby	baby	NOUN	_	_	2	obl	_	_
+6	tracks	track	VERB	_	_	0	root	_	_
+7	down	down	ADP	_	_	6	compound:prt	_	_
+8	nurse	nurse	NOUN	_	_	6	obj	_	_
+9	who	who	SCONJ	_	_	10	mark	_	_
+10	cared	care	VERB	_	_	8	acl	_	_
+11	for	for	ADP	_	_	12	case	_	_
+12	her	-PRON-	PRON	_	_	10	obl	_	_
+
+
+# cb017
+# Trump Insults Rattle Rivals, Please Fans
+1	Trump	trump	PROPN	_	_	_	_	_	_
+2	Insults	insults	NOUN	_	_	_	_	_	_
+3	Rattle	rattle	VERB	_	_	_	_	_	_
+4	Rivals	rival	NOUN	_	_	_	_	_	_
+5	,	,	PUNCT	_	_	_	_	_	_
+6	Please	please	VERB	_	_	_	_	_	_
+7	Fans	fan	NOUN	_	_	_	_	_	_
+
+
+# cn018
+# CT high school slut shames students over "Inappropriate" prom dresses
+1	CT	ct	PROPN	_	_	3	nmod	_	_
+2	high	high	ADJ	_	_	3	compound	_	_
+3	school	school	NOUN	_	_	5	nsubj	_	_
+4	slut	slut	NOUN	_	_	5	compound	_	_
+5	shames	shame	VERB	_	_	0	root	_	_
+6	students	student	NOUN	_	_	5	obj	_	_
+7	over	over	ADP	_	_	_	_	_	_
+8	"	"	PUNCT	_	_	9	punct	_	_
+9	inappropriate	inappropriate	ADJ	_	_	_	_	_	_
+10	"	"	PUNCT	_	_	9	punct	_	_
+11	prom	prom	NOUN	_	_	_	_	_	_
+12	dresses	dress	NOUN	_	_	_	_	_	_
+
+
+# cb019
+# Public urged to keep track of squirrels with mobiles
+1	Public	public	PROPN	_	_	_	_	_	_
+2	urged	urge	VERB	_	_	_	_	_	_
+3	to	to	PART	_	_	_	_	_	_
+4	keep	keep	VERB	_	_	_	_	_	_
+5	track	track	NOUN	_	_	_	_	_	_
+6	of	of	ADP	_	_	_	_	_	_
+7	squirrels	squirrel	NOUN	_	_	_	_	_	_
+8	with	with	ADP	_	_	_	_	_	_
+9	mobiles	mobile	NOUN	_	_	_	_	_	_
