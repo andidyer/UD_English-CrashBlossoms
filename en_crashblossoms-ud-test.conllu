@@ -28,7 +28,7 @@
 5	net	net	ADJ	_	_	_	_	_	_
 6	programs	program	NOUN	_	_	_	_	_	_
 7	as	as	ADP	_	_	_	_	_	_
-8	deficit	deficit	NOUN	_	_	_	_	_	_
+8	deficit	deficit	NOUN	_	_	9	nsubj	_	_
 9	balloons	balloon	VERB	_	_	_	_	_	_
 
 
@@ -56,24 +56,24 @@
 1	Mutilated	mutilated	ADJ	_	_	2	amod	_	_
 2	body	body	NOUN	_	_	3	nsubj	_	_
 3	washes	wash	VERB	_	_	0	root	_	_
-4	up	up	PART	_	_	_	_	_	_
-5	on	on	ADP	_	_	_	_	_	_
-6	Rio	rio	PROPN	_	_	_	_	_	_
-7	beach	beach	NOUN	_	_	_	_	_	_
-8	to	to	PART	_	_	_	_	_	_
-9	be	be	AUX	_	_	_	_	_	_
-10	used	use	VERB	_	_	_	_	_	_
-11	for	for	ADP	_	_	_	_	_	_
-12	Olympics	olympics	PROPN	_	_	_	_	_	_
+4	up	up	PART	_	_	3	compound	_	_
+5	on	on	ADP	_	_	7	case	_	_
+6	Rio	rio	PROPN	_	_	7	nmod	_	_
+7	beach	beach	NOUN	_	_	3	obl	_	_
+8	to	to	PART	_	_	10	mark	_	_
+9	be	be	AUX	_	_	10	aux	_	_
+10	used	use	VERB	_	_	7	acl	_	_
+11	for	for	ADP	_	_	14	case	_	_
+12	Olympics	olympics	PROPN	_	_	14	nmod	_	_
 13	beach	beach	NOUN	_	_	14	compound	_	_
-14	volleyball	volleyball	NOUN	_	_	_	_	_	_
+14	volleyball	volleyball	NOUN	_	_	10	obl	_	_
 
 
 # cb007
 # Second Ave. change orders pressure December completion
-1	Second	second	PROPN	_	_	_	_	_	_
+1	Second	second	PROPN	_	_	2	compound	_	_
 2	Ave	ave	PROPN	_	_	_	_	_	_
-3	.	.	PUNCT	_	_	_	_	_	_
+3	.	.	PUNCT	_	_	2	goeswith	_	_
 4	change	change	NOUN	_	_	_	_	_	_
 5	orders	order	NOUN	_	_	_	_	_	_
 6	pressure	pressure	NOUN	_	_	0	root	_	_
@@ -107,32 +107,32 @@
 
 # cb009
 # Biden, Trump, fed agents to attend Penn graduation
-1	Biden	biden	PROPN	_	_	_	_	_	_
-2	,	,	PUNCT	_	_	_	_	_	_
-3	Trump	trump	PROPN	_	_	_	_	_	_
-4	,	,	PUNCT	_	_	_	_	_	_
-5	fed	fed	PROPN	_	_	_	_	_	_
-6	agents	agent	NOUN	_	_	_	_	_	_
-7	to	to	PART	_	_	_	_	_	_
-8	attend	attend	VERB	_	_	0	root	_	_
+1	Biden	biden	PROPN	_	_	8	nsubj	_	_
+2	,	,	PUNCT	_	_	3	punct	_	_
+3	Trump	trump	PROPN	_	_	1	conj	_	_
+4	,	,	PUNCT	_	_	6	punct	_	_
+5	fed	fed	PROPN	_	_	6	compound	_	_
+6	agents	agent	NOUN	_	_	1	conj	_	_
+7	to	to	PART	_	_	8	aux	_	_
+8	attend	attend	VERB	_	_	_	_	_	_
 9	Penn	penn	PROPN	_	_	10	nmod	_	_
 10	graduation	graduation	NOUN	_	_	8	obj	_	_
 
 
 # sn 010
 # Indiana poll bears good news for Trump
-1	Indiana	indiana	PROPN	_	_	_	_	_	_
-2	poll	poll	NOUN	_	_	_	_	_	_
+1	Indiana	indiana	PROPN	_	_	2	nmod	_	_
+2	poll	poll	NOUN	_	_	3	nsubj	_	_
 3	bears	bear	VERB	_	_	0	root	_	_
-4	good	good	ADJ	_	_	_	_	_	_
-5	news	news	NOUN	_	_	_	_	_	_
-6	for	for	ADP	_	_	_	_	_	_
-7	Trump	trump	PROPN	_	_	_	_	_	_
+4	good	good	ADJ	_	_	5	amod	_	_
+5	news	news	NOUN	_	_	3	obj	_	_
+6	for	for	ADP	_	_	7	mark	_	_
+7	Trump	trump	PROPN	_	_	5	nmod	_	_
 
 
 # sn 011
 # Stephen Hawking reflects on the Earth's chance of sustaining life at the Sydney Opera House earlier last year
-1	Stephen	stephen	PROPN	_	_	_	_	_	_
+1	Stephen	stephen	PROPN	_	_	2	compound	_	_
 2	Hawking	hawking	PROPN	_	_	3	nsubj	_	_
 3	reflects	reflect	VERB	_	_	0	root	_	_
 4	on	on	ADP	_	_	_	_	_	_
@@ -145,8 +145,8 @@
 11	life	life	NOUN	_	_	_	_	_	_
 12	at	at	ADP	_	_	_	_	_	_
 13	the	the	DET	_	_	_	_	_	_
-14	Sydney	sydney	PROPN	_	_	_	_	_	_
-15	Opera	opera	PROPN	_	_	_	_	_	_
+14	Sydney	sydney	PROPN	_	_	16	compound	_	_
+15	Opera	opera	PROPN	_	_	16	compound	_	_
 16	House	house	PROPN	_	_	_	_	_	_
 17	earlier	earlier	ADV	_	_	_	_	_	_
 18	last	last	ADJ	_	_	_	_	_	_
@@ -173,42 +173,42 @@
 
 # cb013
 # China Nov inflation edges up, but deflation risks dog economy
-1	China	china	PROPN	_	_	_	_	_	_
-2	Nov	nov	PROPN	_	_	_	_	_	_
-3	inflation	inflation	NOUN	_	_	_	_	_	_
+1	China	china	PROPN	_	_	2	nmod	_	_
+2	Nov	nov	PROPN	_	_	3	nmod	_	_
+3	inflation	inflation	NOUN	_	_	4	nsubj	_	_
 4	edges	edge	VERB	_	_	_	_	_	_
-5	up	up	PART	_	_	_	_	_	_
-6	,	,	PUNCT	_	_	_	_	_	_
-7	but	but	CCONJ	_	_	_	_	_	_
-8	deflation	deflation	NOUN	_	_	_	_	_	_
-9	risks	risk	NOUN	_	_	_	_	_	_
-10	dog	dog	VERB	_	_	_	_	_	_
+5	up	up	PART	_	_	4	compound	_	_
+6	,	,	PUNCT	_	_	10	punct	_	_
+7	but	but	CCONJ	_	_	10	cc	_	_
+8	deflation	deflation	NOUN	_	_	9	nmod	_	_
+9	risks	risk	NOUN	_	_	10	nsubj	_	_
+10	dog	dog	VERB	_	_	4	xcomp	_	_
 11	economy	economy	NOUN	_	_	10	obj	_	_
 
 
 # cb914
 # Paris attacks cloud conversation at summit of World Powers
-1	Paris	paris	NOUN	_	_	_	_	_	_
-2	attacks	attack	NOUN	_	_	_	_	_	_
+1	Paris	paris	NOUN	_	_	2	nmod	_	_
+2	attacks	attack	NOUN	_	_	3	nsubj	_	_
 3	cloud	cloud	VERB	_	_	0	root	_	_
-4	conversation	conversation	NOUN	_	_	_	_	_	_
-5	at	at	ADP	_	_	_	_	_	_
-6	summit	summit	NOUN	_	_	_	_	_	_
-7	of	of	ADP	_	_	_	_	_	_
-8	World	world	PROPN	_	_	_	_	_	_
-9	Powers	powers	PROPN	_	_	_	_	_	_
+4	conversation	conversation	NOUN	_	_	3	obj	_	_
+5	at	at	ADP	_	_	6	case	_	_
+6	summit	summit	NOUN	_	_	4	obl	_	_
+7	of	of	ADP	_	_	9	mark	_	_
+8	World	world	PROPN	_	_	9	compound	_	_
+9	Powers	powers	PROPN	_	_	6	nmod	_	_
 
 
 # cb015
 # New York Jets ship toilet rolls to UK
-1	New	new	PROPN	_	_	_	_	_	_
-2	York	york	PROPN	_	_	_	_	_	_
-3	Jets	jets	PROPN	_	_	_	_	_	_
+1	New	new	PROPN	_	_	3	compound	_	_
+2	York	york	PROPN	_	_	3	compound	_	_
+3	Jets	jets	PROPN	_	_	4	nsubj	_	_
 4	ship	ship	VERB	_	_	0	root	_	_
-5	toilet	toilet	NOUN	_	_	_	_	_	_
-6	rolls	roll	NOUN	_	_	_	_	_	_
-7	to	to	ADP	_	_	_	_	_	_
-8	UK	uk	PROPN	_	_	_	_	_	_
+5	toilet	toilet	NOUN	_	_	6	compound	_	_
+6	rolls	roll	NOUN	_	_	4	obj	_	_
+7	to	to	ADP	_	_	8	case	_	_
+8	UK	uk	PROPN	_	_	6	iobj	_	_
 
 
 # cb016
@@ -229,13 +229,13 @@
 
 # cb017
 # Trump Insults Rattle Rivals, Please Fans
-1	Trump	trump	PROPN	_	_	_	_	_	_
-2	Insults	insults	NOUN	_	_	_	_	_	_
+1	Trump	trump	PROPN	_	_	2	nmod	_	_
+2	Insults	insults	NOUN	_	_	3	nsubj	_	_
 3	Rattle	rattle	VERB	_	_	_	_	_	_
-4	Rivals	rival	NOUN	_	_	_	_	_	_
-5	,	,	PUNCT	_	_	_	_	_	_
-6	Please	please	VERB	_	_	_	_	_	_
-7	Fans	fan	NOUN	_	_	_	_	_	_
+4	Rivals	rival	NOUN	_	_	3	obj	_	_
+5	,	,	PUNCT	_	_	6	punct	_	_
+6	Please	please	VERB	_	_	3	conj	_	_
+7	Fans	fan	NOUN	_	_	6	obj	_	_
 
 
 # cn018
@@ -246,22 +246,22 @@
 4	slut	slut	NOUN	_	_	5	compound	_	_
 5	shames	shame	VERB	_	_	0	root	_	_
 6	students	student	NOUN	_	_	5	obj	_	_
-7	over	over	ADP	_	_	_	_	_	_
+7	over	over	ADP	_	_	12	mark	_	_
 8	"	"	PUNCT	_	_	9	punct	_	_
-9	inappropriate	inappropriate	ADJ	_	_	_	_	_	_
+9	inappropriate	inappropriate	ADJ	_	_	12	amod	_	_
 10	"	"	PUNCT	_	_	9	punct	_	_
-11	prom	prom	NOUN	_	_	_	_	_	_
-12	dresses	dress	NOUN	_	_	_	_	_	_
+11	prom	prom	NOUN	_	_	12	compound	_	_
+12	dresses	dress	NOUN	_	_	6	obl	_	_
 
 
 # cb019
 # Public urged to keep track of squirrels with mobiles
-1	Public	public	PROPN	_	_	_	_	_	_
+1	Public	public	PROPN	_	_	2	nsubj	_	_
 2	urged	urge	VERB	_	_	_	_	_	_
-3	to	to	PART	_	_	_	_	_	_
-4	keep	keep	VERB	_	_	_	_	_	_
-5	track	track	NOUN	_	_	_	_	_	_
-6	of	of	ADP	_	_	_	_	_	_
-7	squirrels	squirrel	NOUN	_	_	_	_	_	_
-8	with	with	ADP	_	_	_	_	_	_
-9	mobiles	mobile	NOUN	_	_	_	_	_	_
+3	to	to	PART	_	_	4	mark	_	_
+4	keep	keep	VERB	_	_	2	acl	_	_
+5	track	track	NOUN	_	_	4	compound	_	_
+6	of	of	ADP	_	_	7	mark	_	_
+7	squirrels	squirrel	NOUN	_	_	4	obj	_	_
+8	with	with	ADP	_	_	9	case	_	_
+9	mobiles	mobile	NOUN	_	_	4	obl	_	_
