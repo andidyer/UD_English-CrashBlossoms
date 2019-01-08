@@ -23,13 +23,13 @@
 # Republicans look to safety net programs as deficit balloons
 1	Republicans	republican	NOUN	_	_	2	nsubj	_	_
 2	look	look	VERB	_	_	0	root	_	_
-3	to	to	ADP	_	_	_	_	_	_
-4	safety	safety	NOUN	_	_	_	_	_	_
-5	net	net	ADJ	_	_	_	_	_	_
-6	programs	program	NOUN	_	_	_	_	_	_
-7	as	as	ADP	_	_	_	_	_	_
+3	to	to	ADP	_	_	6	_	_	_
+4	safety	safety	NOUN	_	_	6	_	_	_
+5	net	net	NOUN	_	_	6	_	_	_
+6	programs	program	NOUN	_	_	2	_	_	_
+7	as	as	ADP	_	_	9	_	_	_
 8	deficit	deficit	NOUN	_	_	9	nsubj	_	_
-9	balloons	balloon	VERB	_	_	_	_	_	_
+9	balloons	balloon	VERB	_	_	2	_	_	_
 
 
 # sb004
@@ -72,37 +72,37 @@
 # cb007
 # Second Ave. change orders pressure December completion
 1	Second	second	PROPN	_	_	2	compound	_	_
-2	Ave	ave	PROPN	_	_	_	_	_	_
+2	Ave	ave	PROPN	_	_	6	nmod	_	_
 3	.	.	PUNCT	_	_	2	goeswith	_	_
-4	change	change	NOUN	_	_	_	_	_	_
-5	orders	order	NOUN	_	_	_	_	_	_
+4	change	change	NOUN	_	_	5	flat	_	_
+5	orders	order	NOUN	_	_	6	nsubj	_	_
 6	pressure	pressure	NOUN	_	_	0	root	_	_
-7	December	december	PROPN	_	_	_	_	_	_
-8	completion	completion	NOUN	_	_	_	_	_	_
+7	December	december	PROPN	_	_	8	nmod	_	_
+8	completion	completion	NOUN	_	_	6	obj	_	_
 
 
 # cb008
 # Susan Collins unveils a gun-control compromise: It would restrict sales to individuals on two terrorist watch lists
-1	Susan	susan	PROPN	_	_	_	_	_	_
-2	Collins	collins	PROPN	_	_	_	_	_	_
+1	Susan	susan	PROPN	_	_	2	flat	_	_
+2	Collins	collins	PROPN	_	_	3	nsubj	_	_
 3	unveils	unveil	VERB	_	_	_	_	_	_
-4	a	a	DET	_	_	_	_	_	_
-5	gun	gun	NOUN	_	_	_	_	_	_
-6	-	-	PUNCT	_	_	_	_	_	_
-7	control	control	NOUN	_	_	_	_	_	_
-8	compromise	compromise	NOUN	_	_	_	_	_	_
-9	:	:	PUNCT	_	_	_	_	_	_
-10	It	-PRON-	PRON	_	_	_	_	_	_
-11	would	would	VERB	_	_	_	_	_	_
-12	restrict	restrict	VERB	_	_	_	_	_	_
-13	sales	sale	NOUN	_	_	_	_	_	_
-14	to	to	ADP	_	_	_	_	_	_
-15	individuals	individual	NOUN	_	_	_	_	_	_
-16	on	on	ADP	_	_	_	_	_	_
-17	two	two	NUM	_	_	_	_	_	_
-18	terrorist	terrorist	ADJ	_	_	_	_	_	_
-19	watch	watch	NOUN	_	_	_	_	_	_
-20	lists	list	NOUN	_	_	_	_	_	_
+4	a	a	DET	_	_	8	det	_	_
+5	gun	gun	NOUN	_	_	7	compound	_	_
+6	-	-	PUNCT	_	_	7	punct	_	_
+7	control	control	NOUN	_	_	8	nmod	_	_
+8	compromise	compromise	NOUN	_	_	3	obj	_	_
+9	:	:	PUNCT	_	_	8	punct	_	_
+10	It	-PRON-	PRON	_	_	12	nsubj	_	_
+11	would	would	VERB	_	_	12	aux	_	_
+12	restrict	restrict	VERB	_	_	8	acl	_	_
+13	sales	sale	NOUN	_	_	12	obj	_	_
+14	to	to	ADP	_	_	15	case	_	_
+15	individuals	individual	NOUN	_	_	13	nmod	_	_
+16	on	on	ADP	_	_	20	case	_	_
+17	two	two	NUM	_	_	20	nummod	_	_
+18	terrorist	terrorist	ADJ	_	_	20	amod	_	_
+19	watch	watch	NOUN	_	_	20	compound	_	_
+20	lists	list	NOUN	_	_	15	nmod	_	_
 
 
 # cb009
@@ -114,7 +114,7 @@
 5	fed	fed	PROPN	_	_	6	compound	_	_
 6	agents	agent	NOUN	_	_	1	conj	_	_
 7	to	to	PART	_	_	8	aux	_	_
-8	attend	attend	VERB	_	_	_	_	_	_
+8	attend	attend	VERB	_	_	0	root	_	_
 9	Penn	penn	PROPN	_	_	10	nmod	_	_
 10	graduation	graduation	NOUN	_	_	8	obj	_	_
 
@@ -135,40 +135,40 @@
 1	Stephen	stephen	PROPN	_	_	2	compound	_	_
 2	Hawking	hawking	PROPN	_	_	3	nsubj	_	_
 3	reflects	reflect	VERB	_	_	0	root	_	_
-4	on	on	ADP	_	_	_	_	_	_
-5	the	the	DET	_	_	_	_	_	_
-6	Earth	earth	PROPN	_	_	_	_	_	_
-7	's	's	PART	_	_	_	_	_	_
-8	chance	chance	NOUN	_	_	_	_	_	_
-9	of	of	ADP	_	_	_	_	_	_
-10	sustaining	sustain	VERB	_	_	_	_	_	_
-11	life	life	NOUN	_	_	_	_	_	_
-12	at	at	ADP	_	_	_	_	_	_
-13	the	the	DET	_	_	_	_	_	_
+4	on	on	ADP	_	_	8	_	_	_
+5	the	the	DET	_	_	6	det	_	_
+6	Earth	earth	PROPN	_	_	8	_	_	_
+7	's	's	PART	_	_	6	_	_	_
+8	chance	chance	NOUN	_	_	3	_	_	_
+9	of	of	ADP	_	_	10	_	_	_
+10	sustaining	sustain	VERB	_	_	8	_	_	_
+11	life	life	NOUN	_	_	10	obj	_	_
+12	at	at	ADP	_	_	16	case	_	_
+13	the	the	DET	_	_	16	det	_	_
 14	Sydney	sydney	PROPN	_	_	16	compound	_	_
 15	Opera	opera	PROPN	_	_	16	compound	_	_
-16	House	house	PROPN	_	_	_	_	_	_
-17	earlier	earlier	ADV	_	_	_	_	_	_
-18	last	last	ADJ	_	_	_	_	_	_
-19	year	year	NOUN	_	_	_	_	_	_
+16	House	house	PROPN	_	_	3	_	_	_
+17	earlier	earlier	ADV	_	_	19	_	_	_
+18	last	last	ADJ	_	_	19	_	_	_
+19	year	year	NOUN	_	_	3	obl	_	_
 
 
 # sn 012
 # Finance minister hikes down payment rules for mortgages on homes over $500K
-1	Finance	finance	NOUN	_	_	_	_	_	_
-2	minister	minister	NOUN	_	_	_	_	_	_
-3	hikes	hike	VERB	_	_	_	_	_	_
-4	down	down	ADP	_	_	_	_	_	_
-5	payment	payment	NOUN	_	_	_	_	_	_
-6	rules	rule	NOUN	_	_	_	_	_	_
-7	for	for	ADP	_	_	_	_	_	_
-8	mortgages	mortgage	NOUN	_	_	_	_	_	_
-9	on	on	ADP	_	_	_	_	_	_
-10	homes	home	NOUN	_	_	_	_	_	_
-11	over	over	ADP	_	_	_	_	_	_
-12	$	$	SYM	_	_	_	_	_	_
-13	500	500	NUM	_	_	_	_	_	_
-14	K	k	NOUN	_	_	_	_	_	_
+1	Finance	finance	NOUN	_	_	2	flat	_	_
+2	minister	minister	NOUN	_	_	3	nsubj	_	_
+3	hikes	hike	VERB	_	_	0	root	_	_
+4	down	down	ADP	_	_	3	compound	_	_
+5	payment	payment	NOUN	_	_	6	nmod	_	_
+6	rules	rule	NOUN	_	_	3	obj	_	_
+7	for	for	ADP	_	_	8	mark	_	_
+8	mortgages	mortgage	NOUN	_	_	6	obl	_	_
+9	on	on	ADP	_	_	10	case	_	_
+10	homes	home	NOUN	_	_	8	obl	_	_
+11	over	over	ADP	_	_	12	advmod	_	_
+12	$	$	SYM	_	_	10	acl	_	_
+13	500	500	NUM	_	_	12	nummod	_	_
+14	K	k	NOUN	_	_	13	compound	_	_
 
 
 # cb013
