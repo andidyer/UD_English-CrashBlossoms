@@ -265,3 +265,14 @@
 7	squirrels	squirrel	NOUN	_	_	4	obj	_	_
 8	with	with	ADP	_	_	9	case	_	_
 9	mobiles	mobile	NOUN	_	_	4	obl	_	_
+
+# cb020
+# A great deal to get away from Hotels.com
+1	A	a	DET	_	_	3	det	_	_
+2	great	great	ADJ	_	_	3	amod	_	_
+3	deal	deal	NOUN	_	_	_	_	_	_
+4	to	to	PART	_	_	5	mark	_	_
+5	get	get	VERB	_	_	3	acl	_	_
+6	away	away	ADV	_	_	5	compound	_	_
+7	from	from	ADP	_	_	8	case	_	_
+8	Hotels.com	hotels.com	PROPN	_	_	3	nmod	_	_
