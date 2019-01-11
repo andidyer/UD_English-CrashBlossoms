@@ -276,3 +276,16 @@
 6	away	away	ADV	_	_	5	compound	_	_
 7	from	from	ADP	_	_	8	case	_	_
 8	Hotels.com	hotels.com	PROPN	_	_	3	nmod	_	_
+
+# cb021
+# North Carolina police kill unarmed deaf man using sign language
+1	North	north	PROPN	_	_	2	flat	_	_
+2	Carolina	carolina	PROPN	_	_	3	nmod	_	_
+3	police	police	NOUN	_	_	4	nsubj	_	_
+4	kill	kill	VERB	_	_	0	root	_	_
+5	unarmed	unarmed	ADJ	_	_	7	amod	_	_
+6	deaf	deaf	ADJ	_	_	7	amod	_	_
+7	man	man	NOUN	_	_	4	obj	_	_
+8	using	use	VERB	_	_	7	acl	_	_
+9	sign	sign	NOUN	_	_	10	flat	_	_
+10	language	language	NOUN	_	_	8	obj	_	_
