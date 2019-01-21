@@ -85,7 +85,7 @@
 # Susan Collins unveils a gun-control compromise: It would restrict sales to individuals on two terrorist watch lists
 1	Susan	susan	PROPN	_	_	2	flat	_	_
 2	Collins	collins	PROPN	_	_	3	nsubj	_	_
-3	unveils	unveil	VERB	_	_	_	_	_	_
+3	unveils	unveil	VERB	_	_	0	root	_	_
 4	a	a	DET	_	_	8	det	_	_
 5	gun	gun	NOUN	_	_	7	compound	_	_
 6	-	-	PUNCT	_	_	7	punct	_	_
@@ -176,7 +176,7 @@
 1	China	china	PROPN	_	_	2	nmod	_	_
 2	Nov	nov	PROPN	_	_	3	nmod	_	_
 3	inflation	inflation	NOUN	_	_	4	nsubj	_	_
-4	edges	edge	VERB	_	_	_	_	_	_
+4	edges	edge	VERB	_	_	0	root	_	_
 5	up	up	PART	_	_	4	compound	_	_
 6	,	,	PUNCT	_	_	10	punct	_	_
 7	but	but	CCONJ	_	_	10	cc	_	_
@@ -231,7 +231,7 @@
 # Trump Insults Rattle Rivals, Please Fans
 1	Trump	trump	PROPN	_	_	2	nmod	_	_
 2	Insults	insults	NOUN	_	_	3	nsubj	_	_
-3	Rattle	rattle	VERB	_	_	_	_	_	_
+3	Rattle	rattle	VERB	_	_	0	root	_	_
 4	Rivals	rival	NOUN	_	_	3	obj	_	_
 5	,	,	PUNCT	_	_	6	punct	_	_
 6	Please	please	VERB	_	_	3	conj	_	_
@@ -257,7 +257,7 @@
 # cb019
 # Public urged to keep track of squirrels with mobiles
 1	Public	public	PROPN	_	_	2	nsubj	_	_
-2	urged	urge	VERB	_	_	_	_	_	_
+2	urged	urge	VERB	_	_	0	root	_	_
 3	to	to	PART	_	_	4	mark	_	_
 4	keep	keep	VERB	_	_	2	acl	_	_
 5	track	track	NOUN	_	_	4	compound	_	_
@@ -266,16 +266,18 @@
 8	with	with	ADP	_	_	9	case	_	_
 9	mobiles	mobile	NOUN	_	_	4	obl	_	_
 
+
 # cb020
 # A great deal to get away from Hotels.com
 1	A	a	DET	_	_	3	det	_	_
 2	great	great	ADJ	_	_	3	amod	_	_
-3	deal	deal	NOUN	_	_	_	_	_	_
+3	deal	deal	NOUN	_	_	0	root	_	_
 4	to	to	PART	_	_	5	mark	_	_
 5	get	get	VERB	_	_	3	acl	_	_
 6	away	away	ADV	_	_	5	compound	_	_
 7	from	from	ADP	_	_	8	case	_	_
 8	Hotels.com	hotels.com	PROPN	_	_	3	nmod	_	_
+
 
 # cb021
 # North Carolina police kill unarmed deaf man using sign language
@@ -289,3 +291,15 @@
 8	using	use	VERB	_	_	7	acl	_	_
 9	sign	sign	NOUN	_	_	10	flat	_	_
 10	language	language	NOUN	_	_	8	obj	_	_
+
+
+# cb022
+# Dead mouse in protein supplement claimant admits lying
+1	Dead	dead	ADJ	_	_	2	amod	_	_
+2	mouse	mouse	NOUN	_	_	5	nsubj	_	_
+3	in	in	ADP	_	_	5	case	_	_
+4	protein	protein	NOUN	_	_	5	nmod	_	_
+5	supplement	supplement	NOUN	_	_	6	nmod	_	_
+6	claimant	claimant	NOUN	_	_	7	nsubj	_	_
+7	admits	admit	VERB	_	_	0	root	_	_
+8	lying	lie	VERB	_	_	7	xcomp	_	_
