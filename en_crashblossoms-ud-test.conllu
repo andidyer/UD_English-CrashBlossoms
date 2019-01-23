@@ -303,3 +303,20 @@
 6	claimant	claimant	NOUN	_	_	7	nsubj	_	_
 7	admits	admit	VERB	_	_	0	root	_	_
 8	lying	lie	VERB	_	_	7	xcomp	_	_
+
+
+# cb023
+# You can't add flavor to a bean that isn't already there
+1	You	you	_	_	_	_	_	_	_
+2	ca	can	_	_	_	_	_	_	_
+3	n't	not	_	_	_	_	_	_	_
+4	add	add	_	_	_	_	_	_	_
+5	flavor	flavor	_	_	_	_	_	_	_
+6	to	to	_	_	_	_	_	_	_
+7	a	a	_	_	_	_	_	_	_
+8	bean	bean	_	_	_	_	_	_	_
+9	that	that	_	_	_	_	_	_	_
+10	is	is	_	_	_	_	_	_	_
+11	n't	not	_	_	_	_	_	_	_
+12	already	already	_	_	_	_	_	_	_
+13	there	there	_	_	_	_	_	_	_
