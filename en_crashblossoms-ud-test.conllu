@@ -320,3 +320,14 @@
 11	n't	not	PART	_	_	13	aux	_	_
 12	already	already	ADV	_	_	13	advmod	_	_
 13	there	there	ADV	_	_	5	acl	_	_
+
+
+# cb024
+# Girl found alive in France murders car
+1	Girl	girl	NOUN	_	_	2	nsubj	_	_
+2	found	find	VERB	_	_	0	root	_	_
+3	alive	alive	ADJ	_	_	2	xcomp	_	_
+4	in	in	ADP	_	_	7	case	_	_
+5	France	france	PROPN	_	_	6	nmod	_	_
+6	murders	murder	NOUN	_	_	7	nmod	_	_
+7	car	car	NOUN	_	_	2	obl	_	_
