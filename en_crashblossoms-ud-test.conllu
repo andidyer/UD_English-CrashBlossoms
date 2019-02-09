@@ -331,3 +331,9 @@
 5	France	france	PROPN	_	_	6	nmod	_	_
 6	murders	murder	NOUN	_	_	7	nmod	_	_
 7	car	car	NOUN	_	_	2	obl	_	_
+
+# cb025
+# Student exchanges in no-deal Brexit threat
+1	Student	student	_	_	_	_	_	_	_
+2	exchange exchange _	_	_	_	_	_	_
+3	in in	_	_	_	_	_	_	_
